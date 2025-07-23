@@ -1,5 +1,5 @@
 🧱 BrickSpace - Real Estate Property Listing Website
-Show Image Show Image Show Image Show Image
+
 Welcome to BrickSpace, a modern and responsive real estate listing platform built with React and Tailwind CSS.
 This front-end project allows users to:
 
