@@ -18,7 +18,9 @@ Clean property grid with filtering capabilities
 ✨ Features
 
 🏡 View featured real estate properties with images and key details
+
 💸 Filter properties by price range and location
+
 📅 Schedule a visit using a contact form (currently static, ready for backend)
 🎨 Clean, modern UI with responsive design
 🌙 Optional dark mode support
