@@ -4,14 +4,10 @@ Welcome to BrickSpace, a modern and responsive real estate listing platform buil
 🔗 Live Demo
 🔗 View Live SiteHosted on: Vercel (update link after deployment)
 
-📸 Screenshots
-Hero Section
-
 Featured Properties
 
 Contact / Visit Form
 
-Note: Replace placeholder image URLs with actual screenshot paths in your repo or hosted links (e.g., via GitHub or Imgur).
 
 ✨ Features
 
