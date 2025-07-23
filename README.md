@@ -46,6 +46,8 @@ Source Directory (src/)
 components/ - Contains all reusable React components
 
 Navbar.jsx - Navigation bar component
+
+
 HeroSection.jsx - Main landing section component
 PropertyCard.jsx - Individual property display component
 FilterSection.jsx - Property filtering component
