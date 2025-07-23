@@ -1,23 +1,16 @@
 🧱 BrickSpace - Real Estate Property Listing Website
 Welcome to BrickSpace, a modern and responsive real estate listing platform built with React and Tailwind CSS. This front-end project allows users to browse featured properties, filter listings by price or location, and schedule visits through a clean, intuitive interface. Whether you're showcasing your skills, learning React, or planning to build a full-stack real estate app, BrickSpace is a solid foundation!
 
-🔗 Live Demo
-🔗 View Live SiteHosted on: Vercel (update link after deployment)
-
-Featured Properties
-
-Contact / Visit Form
-
 
 ✨ Features
 
-🏘️ Browse featured real estate properties with images and details
-🎯 Filter properties by price range and location
-📩 Schedule a visit via a contact form (currently static, ready for backend integration)
-🌗 Clean, modern UI with optional dark mode support
-📱 Fully responsive design for mobile, tablet, and desktop
-⚡ Fast performance with Vite's optimized build process
-♿ Basic accessibility features (e.g., semantic HTML, keyboard navigation)
+Browse featured real estate properties with images and details
+Filter properties by price range and location
+Schedule a visit via a contact form (currently static, ready for backend integration)
+Clean, modern UI with optional dark mode support
+Fully responsive design for mobile, tablet, and desktop
+ Fast performance with Vite's optimized build process
+Basic accessibility features (e.g., semantic HTML, keyboard navigation)
 
 
 ⚙️ Tech Stack
@@ -28,27 +21,6 @@ Icons: React Icons (for lightweight, customizable icons)
 Deployment: GitHub + Vercel/Netlify (recommended for hosting)
 Form Handling: Static HTML (extendable with Node.js, Firebase, or similar)
 
-
-📁 Folder Structure
-brickspace/
-├── public/
-│   ├── screenshots/          # Screenshots for README
-│   └── favicon.ico
-├── src/
-│   ├── assets/              # Images and static assets
-│   ├── components/
-│   │   ├── Navbar.jsx       # Navigation bar
-│   │   ├── HeroSection.jsx  # Landing hero section
-│   │   ├── Properties.jsx   # Property listing and filters
-│   │   ├── ContactForm.jsx  # Contact/visit scheduling form
-│   │   └── Footer.jsx       # Footer with links
-│   ├── App.jsx              # Main app component
-│   └── main.jsx             # Entry point
-├── index.html
-├── tailwind.config.js       # Tailwind CSS configuration
-├── vite.config.js           # Vite configuration
-├── package.json
-└── README.md
 
 
 🛠️ Getting Started Locally
@@ -113,7 +85,9 @@ AI Chatbot: Integrate an AI chatbot (e.g., powered by xAI's Grok) to answer user
 
 
 🙌 Author
-Muhammad Faran Ullah Khan🔗 LinkedIn📧 Email: your.email@example.com (replace with your email)
+Muhammad Faran Ullah Khan 
+LinkedIn 
+Email: faran7067@gmail.com
 
 ⭐ Show Your Support
 If you like this project:
@@ -122,6 +96,3 @@ If you like this project:
 🍴 Fork it and build your own version
 📩 Reach out for help with backend integration, animations, or AI features!
 
-
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
