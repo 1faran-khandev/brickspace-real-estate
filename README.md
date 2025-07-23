@@ -8,12 +8,11 @@ Filter listings by price or location
 Schedule property visits via a clean, intuitive interface
 
 Whether you're learning React, showcasing your skills, or planning a full-stack real estate app—BrickSpace is the perfect foundation.
-🎯 Live Demo
-👉 View Live Site (Update this link once deployed)
-📸 Screenshots
-Show Image
+ Live Demo
+ View Live Site 
+
 Modern homepage with hero section and featured properties
-Show Image
+
 Clean property grid with filtering capabilities
 
 ✨ Features
@@ -33,7 +32,7 @@ Frontend: React + Vite
 Styling: Tailwind CSS
 Icons: React Icons
 Form Handling: Static HTML (ready to connect with backend)
-Deployment: GitHub + Vercel / Netlify
+Deployment: GitHub + Vercel
 
 
 Project Structure
