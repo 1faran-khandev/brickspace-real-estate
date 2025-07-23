@@ -36,34 +36,43 @@ Form Handling: Static HTML (ready to connect with backend)
 Deployment: GitHub + Vercel / Netlify
 
 
-📁 Project Structure
-src/
-|---- components/
-|         |- Navbar.jsx
-│         |- HeroSection.jsx
-│         |- PropertyCard.jsx
-│         |- FilterSection.jsx
-│         |- ContactForm.jsx
-|---- pages
-│      |--- Home.jsx
-│      |--- Contact.jsx
-|      |--- NotFound.jsx
-|      |--- PropertyDetails.jsx
-|      |--- PropertyListing.jsx
-|      
-|  
-|------data
-|        |--- properties.jsx
-|
-|----- App.css
-|--- App.jsx
-|--- index.css
-|--- main.css
-|--- .gitignore
-|--- index.html
-|--- README.md
+Project Structure
+The project is organized into the following main directories and files:
+Source Directory (src/)
+
+**Project Structure**
+components/ - Contains all reusable React components
+
+Navbar.jsx - Navigation bar component
+HeroSection.jsx - Main landing section component
+PropertyCard.jsx - Individual property display component
+FilterSection.jsx - Property filtering component
+ContactForm.jsx - Contact and scheduling form component
 
 
+pages/ - Contains main page components
+Home.jsx - Homepage layout and content
+Properties.jsx - Property listings page
+
+hooks/ - Custom React hooks for shared logic
+useProperties.js - Hook for managing property data and filtering
+utils/ - Utility functions and helper methods
+
+helpers.js - Common helper functions
+assets/ - Static files and resources
+images/ - Property images and other media files
+styles/ - Global styles and CSS files
+index.css - Main stylesheet with Tailwind imports
+
+Root Directory Files
+
+package.json - Project dependencies and scripts
+vite.config.js - Vite configuration
+tailwind.config.js - Tailwind CSS configuration
+index.html - Main HTML template
+README.md - Project documentation
+
+# Getting Started Locally
 Prerequisites
 
 Node.js (v16 or higher)
