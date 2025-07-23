@@ -41,6 +41,8 @@ The project is organized into the following main directories and files:
 Source Directory (src/)
 
 **Project Structure**
+
+
 components/ - Contains all reusable React components
 
 Navbar.jsx - Navigation bar component
