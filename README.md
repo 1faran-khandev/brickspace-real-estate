@@ -1,4 +1,4 @@
-🧱 BrickSpace - Real Estate Property Listing Website
+# BrickSpace - Real Estate Property Listing Website
 
 Welcome to BrickSpace, a modern and responsive real estate listing platform built with React and Tailwind CSS.
 This front-end project allows users to:
@@ -55,12 +55,9 @@ HeroSection.jsx - Main landing section component
 
 PropertyCard.jsx - Individual property display component
 
-
 FilterSection.jsx - Property filtering component
 
-
 ContactForm.jsx - Contact and scheduling form component
-
 
 pages/ - Contains main page components
 
@@ -105,13 +102,13 @@ cd brickspace-real-estate
 
 bashnpm install
 
-4. Run the Development Server
+3. Run the Development Server
    
 bashnpm run dev
 
 The app will be live at: http://localhost:5173
 
-6. Build for Production
+4. Build for Production
 
 bashnpm run build
 
@@ -125,10 +122,8 @@ Push code to a GitHub repo
 Use Vercel, Netlify, or Render
 
 Set:
-
-Build command: npm run build
-
-Output directory: dist/
+  Build command: npm run build
+  Output directory: dist/
 
 
 
@@ -220,22 +215,22 @@ npm run lint - Run ESLint
 npm run format - Format code with Prettier
 
 
-Author
+#Author
 Muhammad Faran Ullah Khan
 
-🌐 LinkedIn
-📧 faran7067@gmail.com
-🐙 GitHub
-🌐 Portfolio
+ LinkedIn
+ faran7067@gmail.com
+ GitHub
+ Portfolio
 
 
-⭐ Show Your Support
+# Show Your Support
 If you like this project:
 
-🌟 Star this repo to show your appreciation
-🍴 Fork and build your own version
-📩 Reach out for help with backend, animations, or AI integration
-💬 Share feedback or suggestions for improvements
+Star this repo to show your appreciation
+ Fork and build your own version
+ Reach out for help with backend, animations, or AI integration
+Share feedback or suggestions for improvements
 
 
 # Acknowledgments
