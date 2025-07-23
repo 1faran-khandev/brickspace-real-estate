@@ -48,8 +48,14 @@ Navbar.jsx - Navigation bar component
 
 
 HeroSection.jsx - Main landing section component
+
+
 PropertyCard.jsx - Individual property display component
+
+
 FilterSection.jsx - Property filtering component
+
+
 ContactForm.jsx - Contact and scheduling form component
 
 
