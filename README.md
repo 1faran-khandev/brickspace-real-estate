@@ -1,4 +1,4 @@
-# BrickSpace — Real Estate Web App
+# BrickSpace : Real Estate Web App
 
 `React.js` `Vite` `Tailwind CSS` `React Icons`
 
@@ -35,7 +35,7 @@ App runs at `http://localhost:5173`
 
 - Backend integration (Firebase or Supabase) for live property data
 - Dynamic property pages with image galleries
-- Advanced filters — city, bedrooms, property type
+- Advanced filters, city, bedrooms, property type
 - Map integration via Google Maps or Mapbox
 - Admin dashboard with authentication
 
