@@ -77,7 +77,7 @@ graph TD
 - Filter listings by price range and location
 - Schedule a visit via contact form (static, ready for backend)
 - Responsive design with optional dark mode
-- Accessible markup — semantic HTML, keyboard navigation
+- Accessible markup, semantic HTML, keyboard navigation
 
 ---
 
